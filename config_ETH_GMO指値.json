@@ -1,0 +1,23 @@
+{
+  "GMOコイン": {
+    "購入数量": 0.03,
+    "購入差額": 150,
+    "APIキー": "rtrlQl+iLHTPmvaOSDFwsikXGtC5Ypd9",
+    "APIシークレット": "BnrhkOsLLrb1XlnsLcIo/zHYc/Xa1kg6ITeo93i62geihZ8gtgHxCz436QGcprGl",
+    "メイカー手数料": "-0.0001",
+    "テイカー手数料": "0.0005"
+  },
+    "bitbank": {
+    "購入数量": 0.03,
+    "購入差額": 150,
+    "APIキー": "af5ccafe-b2dd-4b97-bf0b-d2452007a571",
+    "APIシークレット": "5089d6887e830f927049a30774cf4a8d01f192660f7d2151e93ad068f0f0ffa7",
+    "メイカー手数料": "-0.0002",
+    "テイカー手数料": "0.0012"
+  },
+  "その他設定": {
+    "rounded_amount_buy": 0,
+    "rounded_amount_sell": 0,
+    "資産調整機能": 1
+  }
+}

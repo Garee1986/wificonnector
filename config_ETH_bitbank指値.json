@@ -1,0 +1,23 @@
+{
+  "GMOコイン": {
+    "購入数量": 0.01,
+    "購入差額": 200,
+    "APIキー": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "APIシークレット": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "メイカー手数料": "-0.0001",
+    "テイカー手数料": "0.0005"
+  },
+  "bitbank": {
+    "購入数量": 0.01,
+    "購入差額": 200,
+    "APIキー": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "APIシークレット": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "メイカー手数料": -0.0002,
+    "テイカー手数料": 0.0012
+  },
+  "その他設定": {
+    "rounded_amount_buy": 0,
+    "rounded_amount_sell": 0,
+    "資産調整機能": 1
+  }
+}
